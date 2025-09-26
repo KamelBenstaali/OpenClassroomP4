@@ -1,0 +1,10 @@
+.idea
+data
+venv
+brouillon.ipynb
+final_dataset_for_lightgbm.csv
+final_dataset.csv
+Hyperparametres_des_modeles_ML.docx
+Métriques_utilisées_P4.txt
+Notions_théoriques.txt
+P4_presentation.pptx
