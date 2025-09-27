@@ -1,0 +1,1 @@
+Ce projet consiste à mettre en place des modèles de machine learning supervisée pour faire des prédictions sur des individus. Le thème et la suite du contexte de ce projet seront décrits ultérieurement.
